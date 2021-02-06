@@ -1,4 +1,4 @@
-# Janatahack-machine-learning-in-agriculture
+# Janatahack: Machine learning in agriculture
 This project is part of the Janatahack: Machine learning in agriculture on analytics vidhya. The goal of this project is to predict the outcome of a planting season
 i.e :
 - whether the crop would be healthy (alive),  
@@ -6,6 +6,8 @@ i.e :
 - damaged by other reasons.
 
 # Learning objectives
+Learning objectives for this project include:
+
 - Handling outliers
 - Resampling of inbalanced data using SMOTE (Synthetic Minority Over-sampling Technique)
 - Hyperparameter tuning

@@ -5,3 +5,7 @@ i.e :
 - damaged by pesticides or 
 - damaged by other reasons.
 
+# Learning objectives
+- Handling outliers
+- Resampling of inbalanced data using SMOTE (Synthetic Minority Over-sampling Technique)
+- Hyperparameter tuning
